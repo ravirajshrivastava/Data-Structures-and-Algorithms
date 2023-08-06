@@ -1,0 +1,37 @@
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+
+
+public class Solution {
+    public static void main(String[] args) throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+
+        int N = Integer.parseInt(bufferedReader.readLine().trim());
+        // for(int i=1; i<= 4;i++)
+        // {
+        //     int res = N*i;
+        //     System.out.printf("%-2dx%2d =%2d\n",N,i,res);
+        // }
+        // for(int i=5; i<= 9;i++)
+        // {
+        //     int res = N*i;
+        //     System.out.printf("%-2dx%2d =%3d\n",N,i,res);
+        // }
+        // System.out.printf("%d x 10 = %d",N,N*10);
+        
+        // // System.out.printf("%d x 10 = %d ",N,N*10);
+        for(int i=1; i<=10; i++)
+        {
+            int res = N*i;
+            System.out.printf("%d x %d = %d\n",N,i,res);
+        }
+
+        bufferedReader.close();
+    }
+}
