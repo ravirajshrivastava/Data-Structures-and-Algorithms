@@ -1,3 +1,7 @@
+// find the number of occurence of the given number. This code is the naive one. 
+// The method method would be to use Binary Search with two function i.e FirstOccurence and LastOccurence which will give
+//the best
+
 package Searching;
 
 import java.util.Scanner;
