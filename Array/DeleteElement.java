@@ -1,4 +1,4 @@
-//Delete an element in array!!!
+//Delete an element in array and return the rest elements of the array
 
 
 package Array;
