@@ -1,4 +1,4 @@
-// Remove the duplicate elements from the array and return the size of the new array without using extra space
+// Remove the duplicate elements from the  sorted array and return the size of the new array without using extra space
 // and with Time Complexity of O(n)
 
 package Array;
