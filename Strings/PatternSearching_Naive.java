@@ -23,9 +23,11 @@ public class PatternSearching_Naive
                 
             }
             if(j == patLength)
-                {
+            {
+                 {
                     System.out.print((i +" "));
                 }
+            }
         }
 
     }
