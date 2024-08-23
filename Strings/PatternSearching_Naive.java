@@ -1,6 +1,8 @@
 //Create a method which will take two arguments to find the paatern in the given string and return the starting 
 // index wherever the pattern is matching
 
+//Time Complexity -- Worst : O((strLength - patLength + 1)*patlength) 
+
 
 package Strings;
 
