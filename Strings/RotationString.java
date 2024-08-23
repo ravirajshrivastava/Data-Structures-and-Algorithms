@@ -1,6 +1,8 @@
 // Rotate the elements of the string one by be one and match with the given string whether it is the one of 
 // the rotated part of the original one or not
 
+// New things :   substring()   ,   string concatenation   ,  string comparison using equals()
+
 package Strings;
 
 
