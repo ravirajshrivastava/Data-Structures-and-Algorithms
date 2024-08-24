@@ -1,3 +1,7 @@
+//Naive method to print the sub array 
+//A subarray is a contiguous part of an array. It is defined by a starting index and an ending index in the original array,
+//and it includes all elements between those two indices. Here are some important properties of subarrays:
+
 package Array;
 
 public class SubArrayNaive 
