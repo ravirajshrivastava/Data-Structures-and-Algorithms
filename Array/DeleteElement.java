@@ -1,5 +1,6 @@
-//Delete an element in array and return the rest elements of the array
+//Create a method to Delete an element in array and return the rest elements of the array
 
+// Time COmplexity is O(n);
 
 package Array;
 
