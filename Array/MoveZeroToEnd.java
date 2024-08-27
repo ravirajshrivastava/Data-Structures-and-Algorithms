@@ -1,6 +1,9 @@
 //Create a method that will take an array as an arguemnt and will move all the zeores to the end of the array.
 // This code is a Naive one
 
+// Concept : Traverse through all the elements as weget the zero elemment then we again run a loop in the right side and as 
+// soon we get the non zero element we will swap it with the zeroth elemnt
+
 package Array;
 
 public class MoveZeroToEnd 
