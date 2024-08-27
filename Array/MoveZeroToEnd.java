@@ -1,4 +1,4 @@
-//The code is to Move all the zeores to the end of the array 
+//Create a method that will take an array as an arguemnt and will move all the zeores to the end of the array.
 // This code is a Naive one
 
 package Array;
