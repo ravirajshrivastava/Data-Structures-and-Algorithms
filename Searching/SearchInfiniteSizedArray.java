@@ -1,7 +1,7 @@
 // Create a method to find the find the given number in the given infinite size array
 
 //Logic : What I'll do is to start a while loop till it is true i.e while(true) which will run for infnite time
-//         till we reach  any of the return condition.
+//         till we reach  any of the return condition. It is applicable for only sorted array
 
 
 // Time Complexity : O(n) -------- Space Complexity : O(1)
