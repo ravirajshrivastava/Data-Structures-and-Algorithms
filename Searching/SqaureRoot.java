@@ -1,5 +1,6 @@
 // Find the square root of the given numbeer, here the time complexity is logx --->> the best available method;
-
+//Here we have used Binary Search.
+// for monotonically increasing data we can take binary search into consideration.. 
 
 
 //Another Method with TC of (x)^1/2 is
