@@ -3,6 +3,9 @@
 //Logic : What I'll do is to start a while loop till it is true i.e while(true) which will run for infnite time
 //         till we reach  any of the return condition.
 
+
+// Time Complexity : O(n) -------- Space Complexity : O(1)
+
 package Searching;
 
 public class SearchInfiniteSizedArray 
