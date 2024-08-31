@@ -2,6 +2,8 @@
 
 // Time COmplexity is O(n);
 
+//Approach : traverse the array once if you get the elemnt to delete then come out of the loop and make another loop from that
+// index of the element to the last one storing next elements onwards
 package Array;
 
 import java.util.Scanner;
