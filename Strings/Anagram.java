@@ -3,7 +3,7 @@
 
 
 // Approach : The idea is to check the Anagram in such a way such that first we sort both strings in alphabetical order 
-// and then compare each charatcter in both the strings. 
+// and then compare each character in both the strings. 
 
 package Mathematics;
 
