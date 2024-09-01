@@ -2,7 +2,7 @@
 //not be the same
 
 
-// The idea is to check the Anagram in such a way such that first we sort both strings in alphabetical order 
+// Approach : The idea is to check the Anagram in such a way such that first we sort both strings in alphabetical order 
 // and then compare each charatcter in both the strings. 
 
 package Mathematics;
