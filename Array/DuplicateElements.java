@@ -1,4 +1,7 @@
-//Removing the Duplicate Elements using Naive Method that is taking a temporary array and copying the non- duplicate elements into that
+//Removing the Duplicate Elements using Naive Method that is taking a temporary array and copying the non- duplicate 
+//elements into that and return the size of the new array
+
+//The space complexity of the algorithm is O(n) because of the temp array used to store the non-duplicate elements.
 
 package Array;
 
