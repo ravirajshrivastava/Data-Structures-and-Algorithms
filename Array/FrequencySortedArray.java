@@ -1,3 +1,12 @@
+//This code is designed to print the frequencies of elements in a sorted array. It counts how many times each distinct
+//element appears and prints each element along with its frequency.
+
+// The program iterates through the array, counting the frequency of each element. Since the array is sorted, it can simply 
+//count consecutive occurrences of the same number.
+
+//Time Complexity: O(n)   &&   Space Complexity: O(1)
+
+
 package Array;
 
 class FrequencySortedArray 
