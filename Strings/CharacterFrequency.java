@@ -1,6 +1,12 @@
 // Find the frequency of character in the given string (all lower case) in a alphabetical sorted order..
 
 
+//Approach : Created an array of size 26 (in all lower case) then we used ASCII values concept and for each character
+// counted their frequency and incremented too using count.
+
+// Time Complexity is : O(n)
+// Space Comelexity is : O(constant)
+
 package Strings;
 
 import java.util.Scanner;
