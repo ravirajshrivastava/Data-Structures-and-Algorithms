@@ -1,3 +1,11 @@
+//Problem Statement : You have been given a Linked List with the 1st node as head node and you have to insert the data at the 
+// 1st poition.
+
+// Logic make a method with two argiuments one having current head node and the 2nd argument will hold the new data to be inserted
+// and make a temp node- assign the new data to temp and then next step is temp.next will be head and done........
+
+// TC = O(1)
+
 package LinkedList;
 
 class Node
