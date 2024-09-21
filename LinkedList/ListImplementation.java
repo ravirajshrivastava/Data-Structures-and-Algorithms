@@ -1,3 +1,5 @@
+// Basic idea of List implementation.. How to create node and put data into that.. that's  all here..
+
 package LinkedList;
 
 class Node
